@@ -1,5 +1,4 @@
-# Kiara's Portfolio
-This is my public portfolio
+# Kiara Rodriguez Portfolio
 
 # About me
 Hi! I'm Kiara from the Dominican Republic. I'm a second year MSPPM student at CMU. After graduating, I would like to work with policy analysis and more specifically with international and economic development.
