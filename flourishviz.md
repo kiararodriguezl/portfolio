@@ -14,7 +14,7 @@ The next visualization presents the variation of debt in terms of GDP that each 
 
 # Government Debt of G7 Countries
 
-The public debt-to-GDP ratio of most of the G7 countries is above the OECD total of 130.33%. Only Germany is below this total with a ratio of 77.44, while Canada is slightly over this total with 133.47%. Japan is the country with the highest debt to GDP ratio, at 259.57%, well above all other countries.
+Unlike the previous graph where it is difficult to focus on a specific country or subset of countries, since all OECD countries are included, in this graph we can see what has been the trend of the government debt to GDP ratio of the G7 countries. In addition, we can compare each of these countries with the total ratio of all OECD countries. The government debt-to-GDP ratio of most of the G7 countries for 2021 is above the OECD total of 130.33%. Only Germany is below this total with a ratio of 77.44, while Canada is slightly over this total with 133.47%. Japan is the country with the highest debt to GDP ratio, at 259.57%, well above all other countries.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11734043"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
