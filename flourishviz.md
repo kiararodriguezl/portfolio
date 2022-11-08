@@ -8,7 +8,7 @@ This visualization seeks to show the total debt held by each OECD country as a p
 
 ------
 
-The next visualization presents the variation of government debt in terms of GDP that each OECD country has had from 1995 to 2021.
+Unlike the previous graph, this graph seeks to present the trend for each of the countries, not just the latest value for 2021. Thus, each grid represents the variation of government debt in terms of GDP that each OECD country has had from 1995 to 2021.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11719903"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
