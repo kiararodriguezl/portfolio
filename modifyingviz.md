@@ -88,7 +88,7 @@ Having said that, here are the responses of our two interviewees.
 ### Student, 29 years, background in policy
 
 
-#### General Questions
+<ins>General Questions</ins>
 
 #### 1.	Can you tell me what you these sketches are trying to convey?
 
