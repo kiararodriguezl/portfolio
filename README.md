@@ -10,3 +10,5 @@ I hope to learn different ways to visualize data so that I can use it in policy 
 In this page you will see all the work that I do trying to better present or visualize a variety of data.
 
 ## [Governments Debt](/flourishviz.md)
+
+## [Share of Independent Workers](/modifyingviz.md)
