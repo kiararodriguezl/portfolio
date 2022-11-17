@@ -169,4 +169,35 @@ Probably number 3
 
 3, 1, 2
 
+#### Questions for each visualization
+
+##### 1.	What was the first thing you noticed or was your first impression about the visualization?
+
+1st. The color pallet pleasing. It is somewhat hard to compare similar data across countries.
+2nd. This is easier because there’s a grid. However, there’s a lot of colors going on.
+3rd. Really like! The vertical connections between countries allows for easy comparison along categories.
+
+##### 2.	Is there anything you find surprising or confusing?
+
+1st. I am not sure why the four categories are Youth, Senior, Women, and Low-Income. I also don’t really know what Independent Workers mean, and what the percentage is out of. The subtitle is somewhat confusing because there are two definitions for the percentage. The two numbers on each bar are also confusing to me.
+2nd. I don’t understand the points with the bars. They confuse me a bit more I think.
+3rd. I’m not exactly sure what these are adding up to. I feel like these categories probably overlap, so adding them together like they are, might be ignoring people who might be Young AND Low-Income – biasing the data and producing a bar length with less clear of a meaning.
+
+##### 3.	Is there anything you would change or do differently?
+
+1st. I might group by demographic group rather than country.
+2nd. Maybe choose one type of data to portray, rather than try to put two different data points in each column.
+3rd. I might not add them together to make bars, maybe just group them by category and label by country.
+
+##### 4.	How much time did it take you to understand the graph? Did you understand it quickly, in a reasonable amount of time or did it take you a long time to grasp the information?
+
+1st. It is taking me a while to be able to accurately compare trends across countries.
+2nd. It was easy to understand everything but the small data points. Ignoring those, the bars were pretty easy to compare across countries and within countries.
+3rd. Very quickly! But I think there were misconceptions introduced by the adding.
+
+##### 5.	What did you think of the aesthetics?
+
+1st. Loved it!
+2nd. Very colorful. Maybe a little too colorful.
+3rd. Love! Calming. Clear
 
