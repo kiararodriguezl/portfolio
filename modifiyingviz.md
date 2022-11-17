@@ -47,3 +47,59 @@ The primary audience is the leaders in the social, public and business sectors t
 
 ## Step 4: Test the solution
 
+After drawing the 3 different types of visualizations to represent the information in the first chart, I proceeded to seek feedback from two people who could interpret and critique them from their perspective. For this, I elaborated some questions and used other questions recommended in the assignment to put together a survey that sought to capture the opinion and understanding of the interviewees. The additional questions I developed sought to get the interviewees to talk a little more about their initial impression of the sketches, as well as the level of elicitation and time it took them to understand the information.
+
+The recommended questions were as follows:
+1.	Can you tell me what you think this is? Can you tell me what you these sketches are trying to convey?
+2.	Can you describe to me what these charts are telling you?
+3.	Is there anything you find surprising or confusing?
+4.	Who do you think is the intended audience for this?
+5.	Is there anything you would change or do differently?
+
+The questions I added were:
+1.	What was the first thing you noticed or was your first impression about the visualization?
+2.	How much time did it take you to understand the graph? Did you understand it quickly, in a reasonable amount of time or did it take you a long time to grasp the information?
+3.	Did it encourage you to know more about the topic?
+4.	What did you think of the aesthetics?
+5.	Which chart would you prefer?
+6.	Rank the charts by preference and/or clarity of the information.
+
+After having defined the questions, I proceeded to divide them into two groups. "Overall Questions" are the questions that would be answered in aggregate, taking into account all the sketches, while the others would be questions that would be answered for each visualization, i.e., independently. 
+
+Overall Questions
+1.	Can you tell me what you these sketches are trying to convey?
+2.	Can you describe to me what these charts are telling you?
+3.	Who do you think is the intended audience for this?
+4.	Did it encourage you to know more about the to?
+5.	Which chart would you prefer?
+6.	Rank the charts by preference and/or clarity of the information.
+
+Questions for each visualization
+1.	What was the first thing you noticed or was your first impression about the visualization?
+2.	Is there anything you find surprising or confusing
+3.	Is there anything you would change or do differently?
+4.	How much time did it take you to understand the graph? Did you understand it quickly, in a reasonable amount of time or did it take you a long time to grasp the information?
+5.	What did you think of the aesthetics?
+
+Having said that, here are the responses of our two interviewees.
+
+### Student, 29 years, background in policy
+
+Overall Questions
+1.	Can you tell me what you these sketches are trying to convey?
+While it provides information on independent workers by demographics, it is unclear to me what independent workers and independent workforce mean. It is unclear also what the distinction between the two terms is.
+
+2.	Can you describe to me what these charts are telling you?
+It is trying to compare the % of independent workers by the demographic group across multiple countries.
+
+3.	Who do you think is the intended audience for this?
+The intended audience seems to be individuals in different countries that work in labor departments, labor economists, unions.
+
+4.	Did it encourage you to know more about the topic?
+Not really, without context on what each of these concepts mean is hard to understand what’s going on.
+
+5.	Which chart would you prefer?
+I would say the second one is the easiest to understand.
+
+6.	Rank the charts by preference and/or clarity of the information.
+Second, first, third.
