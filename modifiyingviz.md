@@ -140,3 +140,33 @@ Second, first, third.
 1st. The graph looks pretty.
 2nd. Better contrast between the bars that the previous graph.
 3rd. The graph looks appealing to the audience.
+
+### Adult, 23 years, background in communication
+
+#### Overall Questions
+
+1.	Can you tell me what you think this is?
+
+Representation of demographics of independent workers across European countries.
+
+2.	Can you describe to me what this is telling you?
+
+They are trying to tell me that Sweden has the largest independent working populations across multiple demographics.
+
+3.	Who do you think is the intended audience for this?
+
+Labor policy researchers
+
+4.	Did it encourage you to know more about the topic?
+
+Yes! I would love to know more about how independent work looks in these countries. What kind of work are they doing? What kind of policies affect this work?
+
+5.	Which chart would you prefer?
+
+Probably number 3
+
+6.	Rank the charts by preference and/or clarity of the information
+
+3, 1, 2
+
+
