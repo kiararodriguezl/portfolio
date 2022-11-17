@@ -87,19 +87,25 @@ Having said that, here are the responses of our two interviewees.
 
 Overall Questions
 1.	Can you tell me what you these sketches are trying to convey?
+
 While it provides information on independent workers by demographics, it is unclear to me what independent workers and independent workforce mean. It is unclear also what the distinction between the two terms is.
 
 2.	Can you describe to me what these charts are telling you?
+
 It is trying to compare the % of independent workers by the demographic group across multiple countries.
 
 3.	Who do you think is the intended audience for this?
+
 The intended audience seems to be individuals in different countries that work in labor departments, labor economists, unions.
 
 4.	Did it encourage you to know more about the topic?
+
 Not really, without context on what each of these concepts mean is hard to understand what’s going on.
 
 5.	Which chart would you prefer?
+
 I would say the second one is the easiest to understand.
 
 6.	Rank the charts by preference and/or clarity of the information.
+
 Second, first, third.
