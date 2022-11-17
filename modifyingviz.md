@@ -35,12 +35,13 @@ The first idea that came to my mind was to make a horizontal bar chart dividing 
 ![Sketch 1](https://user-images.githubusercontent.com/97977282/202330394-f4d0c7c9-9aee-426b-b469-72777f4b97ad.png)
 
 ### Sketch 2
-
+Since I made a horizontal bar chart, I wanted to try making a vertical bar chart. As in the previous chart, I decided to give a different color to each demographic group, with the difference of adding dots to each bar, representing the percentage that group represents of the total independent workforce. In this way, each dot mirrors the assigned color of the bar. I thought it prudent to assign colors that were clearly different, given that there would be 24 different bars, to easily identify the bars that belonged to the same demographic group. For this reason I chose orange, yellow, green and blue. Thus, I created a legend that presented the color assigned to each group, which was random, and that the dots would represent the % of independent workforce. I decided to put a single gray dot in the legend because I didn't want to repeat the 4 colors of the bars, but I considered that it would be intuitive for the audience to see the dots next to the bars that belonged to the same group. As for labels, I added the percentage above each bar, but to avoid having too many numbers, I added horizontal gridlines so that they could be followed to understand the approximate percentage represented by the dots. The title, like the previous section, I kept it general, without taking any specific posture, but explaining what the overall chart is about. Finally, I sorted the bars using the Youth demographic group from the highest percentage to the smallest because Youth was the group with the highest percentage across all countries and because that way it gave some order to the chart.
 
 ![Sketch 2](https://user-images.githubusercontent.com/97977282/202330420-d12538c3-a112-4776-9f98-b2e955e97070.png)
 
 
 ### Sketch 3
+Lastly, I decided to simplify the previous sketches a bit more, choosing only one of the two variables I had considered, that is, the percentage of independent workers that each demographic group had. In addition, to avoid having several bars per country, I tried to make a stacked bar with the 4 demographic groups, ending up with only 6 bars, as opposed to the 24 in the previous graph. Although the sum of these percentages exceeds 100%, given that there are people who can be counted in several groups (e.g., a 20 year old woman would be in Youth as well as in Women), I considered that this could be a way to easily represent and understand the percentages within a country. In addition, I added lines between the bars to create some visual demarcation of the 4 groups, and to facilitate the quantification and comparison of the same demographic group across several countries, even though they were not perfectly aligned. Finally, I used similar colors to the first sketch (dark blue, blue, light blue, and olive green), for the same reason of facilitating the visibility of each section of the bar, without confusing how much belonged to one demographic group or another. In this sketch I also decided to organize the stacked bars with the highest percentage of each country, which belongs to the youth demographic group, creating a rough visualization from longer bars to shorter bars, from top to bottom.
 
 ![Sketch 3](https://user-images.githubusercontent.com/97977282/202330438-177a9f4f-09cb-4af1-912f-5b82284247b1.png)
 
@@ -86,32 +87,34 @@ Having said that, here are the responses of our two interviewees.
 ### Student, 29 years, background in policy
 
 #### General Questions
-##### 1.	Can you tell me what you these sketches are trying to convey?
+
+#### 1.	Can you tell me what you these sketches are trying to convey?
 
 While it provides information on independent workers by demographics, it is unclear to me what independent workers and independent workforce mean. It is unclear also what the distinction between the two terms is.
 
-##### 2.	Can you describe to me what these charts are telling you?
+#### 2.	Can you describe to me what these charts are telling you?
 
 It is trying to compare the % of independent workers by the demographic group across multiple countries.
 
-###### 3.	Who do you think is the intended audience for this?
+##### 3.	Who do you think is the intended audience for this?
 
 The intended audience seems to be individuals in different countries that work in labor departments, labor economists, unions.
 
-###### 4.	Did it encourage you to know more about the topic?
+##### 4.	Did it encourage you to know more about the topic?
 
 Not really, without context on what each of these concepts mean is hard to understand what’s going on.
 
-###### 5.	Which chart would you prefer?
+##### 5.	Which chart would you prefer?
 
 I would say the second one is the easiest to understand.
 
-##### 6.	Rank the charts by preference and/or clarity of the information.
+#### 6.	Rank the charts by preference and/or clarity of the information.
 
 Second, first, third.
 
+
 #### Questions for each visualization
-##### 1.	What was the first thing you noticed or was your first impression about the visualization?
+#### 1.	What was the first thing you noticed or was your first impression about the visualization?
 
 1st. That it looks organized, and good use of colors, but did not understand what the % meant.
 
@@ -119,7 +122,7 @@ Second, first, third.
 
 3rd. That the % don’t seem to add to anything, even though they are presented as complements of each other on the same bar.
 
-##### 2.	Is there anything you find surprising or confusing?
+#### 2.	Is there anything you find surprising or confusing?
 
 1st. That it is unclear what are the bars indicating vs the % number next to it. I can’t tell from the graph which one is the % of independent workers and the % independent workforce.
 
@@ -127,7 +130,7 @@ Second, first, third.
 
 3rd. The way the data is presented is very confusing.
 
-##### 3.	Is there anything you would change or do differently?
+#### 3.	Is there anything you would change or do differently?
 
 1st. Clarify which % is each and add bars for both metrics per country.
 
@@ -135,7 +138,7 @@ Second, first, third.
 
 3rd. I would add separate bars for each category.
 
-##### 4.	How much time did it take you to understand the graph? Did you understand it quickly, in a reasonable amount of time or did it take you a long time to grasp the information?
+#### 4.	How much time did it take you to understand the graph? Did you understand it quickly, in a reasonable amount of time or did it take you a long time to grasp the information?
 
 1st. I don’t think I clearly understand it. It is unclear what each % corresponds to.
 
@@ -143,7 +146,7 @@ Second, first, third.
 
 3rd. Given in this case you only consider one variable, I was able to understand it but the way the data is presented is not the best.
 
-##### 5.	What did you think of the aesthetics?
+#### 5.	What did you think of the aesthetics?
 
 1st. The graph looks pretty.
 
@@ -155,33 +158,34 @@ Second, first, third.
 
 #### General Questions
 
-##### 1.	Can you tell me what you think this is?
+#### 1.	Can you tell me what you think this is?
 
 Representation of demographics of independent workers across European countries.
 
-##### 2.	Can you describe to me what this is telling you?
+#### 2.	Can you describe to me what this is telling you?
 
 They are trying to tell me that Sweden has the largest independent working populations across multiple demographics.
 
-##### 3.	Who do you think is the intended audience for this?
+#### 3.	Who do you think is the intended audience for this?
 
 Labor policy researchers
 
-##### 4.	Did it encourage you to know more about the topic?
+#### 4.	Did it encourage you to know more about the topic?
 
 Yes! I would love to know more about how independent work looks in these countries. What kind of work are they doing? What kind of policies affect this work?
 
-##### 5.	Which chart would you prefer?
+#### 5.	Which chart would you prefer?
 
 Probably number 3
 
-##### 6.	Rank the charts by preference and/or clarity of the information
+#### 6.	Rank the charts by preference and/or clarity of the information
 
 3, 1, 2
 
+
 #### Questions for each visualization
 
-##### 1.	What was the first thing you noticed or was your first impression about the visualization?
+#### 1.	What was the first thing you noticed or was your first impression about the visualization?
 
 1st. The color pallet pleasing. It is somewhat hard to compare similar data across countries.
 
@@ -189,7 +193,7 @@ Probably number 3
 
 3rd. Really like! The vertical connections between countries allows for easy comparison along categories.
 
-##### 2.	Is there anything you find surprising or confusing?
+#### 2.	Is there anything you find surprising or confusing?
 
 1st. I am not sure why the four categories are Youth, Senior, Women, and Low-Income. I also don’t really know what Independent Workers mean, and what the percentage is out of. The subtitle is somewhat confusing because there are two definitions for the percentage. The two numbers on each bar are also confusing to me.
 
@@ -197,7 +201,7 @@ Probably number 3
 
 3rd. I’m not exactly sure what these are adding up to. I feel like these categories probably overlap, so adding them together like they are, might be ignoring people who might be Young AND Low-Income – biasing the data and producing a bar length with less clear of a meaning.
 
-##### 3.	Is there anything you would change or do differently?
+#### 3.	Is there anything you would change or do differently?
 
 1st. I might group by demographic group rather than country.
 
@@ -205,7 +209,7 @@ Probably number 3
 
 3rd. I might not add them together to make bars, maybe just group them by category and label by country.
 
-##### 4.	How much time did it take you to understand the graph? Did you understand it quickly, in a reasonable amount of time or did it take you a long time to grasp the information?
+#### 4.	How much time did it take you to understand the graph? Did you understand it quickly, in a reasonable amount of time or did it take you a long time to grasp the information?
 
 1st. It is taking me a while to be able to accurately compare trends across countries.
 
@@ -213,13 +217,14 @@ Probably number 3
 
 3rd. Very quickly! But I think there were misconceptions introduced by the adding.
 
-##### 5.	What did you think of the aesthetics?
+#### 5.	What did you think of the aesthetics?
 
 1st. Loved it!
 
 2nd. Very colorful. Maybe a little too colorful.
 
 3rd. Love! Calming. Clear
+
 
 ### What did you learn from the feedback?
 
