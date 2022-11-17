@@ -64,9 +64,9 @@ The questions I added were:
 5.	Which chart would you prefer?
 6.	Rank the charts by preference and/or clarity of the information.
 
-After having defined the questions, I proceeded to divide them into two groups. "Overall Questions" are the questions that would be answered in aggregate, taking into account all the sketches, while the others would be questions that would be answered for each visualization, i.e., independently. 
+After having defined the questions, I proceeded to divide them into two groups. "General Questions" are the questions that would be answered in aggregate, taking into account all the sketches, while the others would be questions that would be answered for each visualization, in other words, independently. 
 
-Overall Questions
+General Questions
 1.	Can you tell me what you these sketches are trying to convey?
 2.	Can you describe to me what these charts are telling you?
 3.	Who do you think is the intended audience for this?
@@ -85,7 +85,7 @@ Having said that, here are the responses of our two interviewees.
 
 ### Student, 29 years, background in policy
 
-#### Overall Questions
+#### General Questions
 ##### 1.	Can you tell me what you these sketches are trying to convey?
 
 While it provides information on independent workers by demographics, it is unclear to me what independent workers and independent workforce mean. It is unclear also what the distinction between the two terms is.
@@ -153,7 +153,7 @@ Second, first, third.
 
 ### Adult, 23 years, background in communication
 
-#### Overall Questions
+#### General Questions
 
 ##### 1.	Can you tell me what you think this is?
 
@@ -221,3 +221,13 @@ Probably number 3
 
 3rd. Love! Calming. Clear
 
+### What did you learn from the feedback?
+
+After evaluating the two interviews, the pattern that emerged was:
+1.	The second sketch was the easiest chart to understand.
+2.	The variety of colors are pleasing to the eye but distracting and make it difficult to assimilate the information.
+3.	The legend and/or labels should be better explained or synthesized, that is, explicitly differentiate the difference between each variable that makes up the legend. In this case, it was not evident what was the difference between the two types of percentages of independent workers that the graph was analyzing, which made harder to understand the dots.
+
+Considering these points of view, I learned that the simpler the chart, the better. This applies to the colors, type of graphic and amount of information in each of the visualizations. Likewise, I learned that titles, subtitles and labels should be as precise as possible, so that the information is transmitted instantly upon reading them and the association between the text and the graphic becomes immediate as well.
+
+## Step 5: Build your solution
