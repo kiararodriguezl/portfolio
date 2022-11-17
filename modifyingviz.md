@@ -1,4 +1,4 @@
-[Access my portfolio here] (/README.md)
+[Access my portfolio here](/README.md)
 
 # Share of Independent Workers by Demographic Group
 
