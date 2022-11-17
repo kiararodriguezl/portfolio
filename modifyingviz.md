@@ -115,7 +115,8 @@ I would say the second one is the easiest to understand.
 Second, first, third.
 
 
-#### Questions for each visualization
+<ins>Questions for each visualization</ins>
+
 #### 1.	What was the first thing you noticed or was your first impression about the visualization?
 
 1st. That it looks organized, and good use of colors, but did not understand what the % meant.
@@ -160,7 +161,7 @@ Second, first, third.
 ### Adult, 23 years, background in communication
 
 
-#### General Questions
+<ins>General Questions</ins>
 
 #### 1.	Can you tell me what you think this is?
 
@@ -187,7 +188,7 @@ Probably number 3
 3, 1, 2
 
 
-#### Questions for each visualization
+<ins> Questions for each visualization</ins>
 
 #### 1.	What was the first thing you noticed or was your first impression about the visualization?
 
