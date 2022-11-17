@@ -84,7 +84,9 @@ Questions for each visualization
 
 Having said that, here are the responses of our two interviewees.
 
+
 ### Student, 29 years, background in policy
+
 
 #### General Questions
 
@@ -96,15 +98,15 @@ While it provides information on independent workers by demographics, it is uncl
 
 It is trying to compare the % of independent workers by the demographic group across multiple countries.
 
-  ##### 3.	Who do you think is the intended audience for this?
+  #### 3.	Who do you think is the intended audience for this?
 
 The intended audience seems to be individuals in different countries that work in labor departments, labor economists, unions.
 
-  ##### 4.	Did it encourage you to know more about the topic?
+  #### 4.	Did it encourage you to know more about the topic?
 
 Not really, without context on what each of these concepts mean is hard to understand what’s going on.
 
-  ##### 5.	Which chart would you prefer?
+  #### 5.	Which chart would you prefer?
 
 I would say the second one is the easiest to understand.
 
@@ -117,7 +119,9 @@ Second, first, third.
   #### 1.	What was the first thing you noticed or was your first impression about the visualization?
 
 1st. That it looks organized, and good use of colors, but did not understand what the % meant.
+
 2nd. Women seems to be the only group that has higher % of independent workforce than % of independent workers.
+
 3rd. That the % don’t seem to add to anything, even though they are presented as complements of each other on the same bar.
 
   #### 2.	Is there anything you find surprising or confusing?
@@ -154,6 +158,7 @@ Second, first, third.
 
 
 ### Adult, 23 years, background in communication
+
 
 #### General Questions
 
@@ -233,6 +238,7 @@ After evaluating the two interviews, the pattern that emerged was:
 3.	The legend and/or labels should be better explained or synthesized, that is, explicitly differentiate the difference between each variable that makes up the legend. In this case, it was not evident what was the difference between the two types of percentages of independent workers that the graph was analyzing, which made harder to understand the dots.
 
 Considering these points of view, I learned that the simpler the chart, the better. This applies to the colors, type of graphic and amount of information in each of the visualizations. Likewise, I learned that titles, subtitles and labels should be as precise as possible, so that the information is transmitted instantly upon reading them and the association between the text and the graphic becomes immediate as well.
+
 
 ## Step 5: Build your solution
 
