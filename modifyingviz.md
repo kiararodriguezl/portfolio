@@ -232,6 +232,8 @@ Considering these points of view, I learned that the simpler the chart, the bett
 
 ## Step 5: Build your solution
 
+After receiving feedback on my sketches, I decided to choose the second one since according to the interviewees it was the one that conveyed the best information, as well as the one that they liked the most. Because of its design, the vertical bar chart allows a better comparison across and within countries, that is, comparing the different demographic groups between countries. In addition, I proceeded to modify the legend, changing the label of the dots from "% of independent workforce" to "% each group represents of the total independent workers". In this way, I am addressing the confusion that respondents expressed about not knowing the difference between the two types of information being presented in the chart between the bars and the dots. Similarly, I edited the title from "Independent workers by demographic groups" to "Share of Independent Workers by demographic groups" because that is the main information that the chart seeks to present through the bars, how much is the percentage or share of independent workers within these demographic groups in each country. Although the variety of colors was a bit concerning, I decided to leave these colors, so that it would be easier to compare each bar of each demographic group of a country with that of another country.
+
 <div class='tableauPlaceholder' id='viz1668644304805' style='position: relative'><noscript><a href='#'><img alt='Share of Independent Workers by Demographic Group ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sh&#47;ShareofIndependentWorkersbyDemographicGroup&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ShareofIndependentWorkersbyDemographicGroup&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Sh&#47;ShareofIndependentWorkersbyDemographicGroup&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='es-ES' /><param name='filter' value='publish=yes' /></object></div>
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1668644304805');                    
@@ -243,6 +245,8 @@ Considering these points of view, I learned that the simpler the chart, the bett
 </script>
 
 ## Step 6: Final solution
+
+Ademas, consideré simplificar este sketch, removiendo los puntos que representaban el porciento que cada grupo significaba del total de trabajadores independientes de cada pais. Primero porque al no tener labels, la audiencia tenia que guiarse de los gridlines para saber el valor de cada uno, y segundo porque agregarles labels significaba hacer el chart muy crowded, complicando aun mas el analisis de la informacion. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11850126"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
