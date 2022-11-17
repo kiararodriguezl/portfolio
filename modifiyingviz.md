@@ -29,3 +29,21 @@ The primary audience is the leaders in the social, public and business sectors t
 
 ## Step 3: Sketch out a solution
 
+### Sketch 1
+
+
+![Sketch 1](https://user-images.githubusercontent.com/97977282/202330394-f4d0c7c9-9aee-426b-b469-72777f4b97ad.png)
+
+### Sketch 2
+
+
+![Sketch 2](https://user-images.githubusercontent.com/97977282/202330420-d12538c3-a112-4776-9f98-b2e955e97070.png)
+
+
+### Sketch 3
+
+![Sketch 3](https://user-images.githubusercontent.com/97977282/202330438-177a9f4f-09cb-4af1-912f-5b82284247b1.png)
+
+
+## Step 4: Test the solution
+
