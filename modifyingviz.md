@@ -246,7 +246,12 @@ After receiving feedback on my sketches, I decided to choose the second one sinc
 
 ## Step 6: Final solution
 
-Ademas, consideré simplificar este sketch, removiendo los puntos que representaban el porciento que cada grupo significaba del total de trabajadores independientes de cada pais. Primero porque al no tener labels, la audiencia tenia que guiarse de los gridlines para saber el valor de cada uno, y segundo porque agregarles labels significaba hacer el chart muy crowded, complicando aun mas el analisis de la informacion. 
+After I decided what my solution would be, I decided to share it with a different group of people in class. Their opinions focused on specific aspects: 
+  (1) Remove the information represented by the dots of the % that each group represents of the total self-employed workers, since it complicated the graph too much and thus delimit it to only present the participation of workers in each demographic group;
+  (2) Change the title so that it provided a story about the graph; and
+  (3) Limit the amount of color.
+  
+Thus, considering these recommendations, I thought it pertinent to modify the chart type to a column grid chart. In this way, I could divide the chart by country, and within each country highlight a particular demographic group. I followed the advice of the class group and dropped the information on the % that each group represented of the total self-employed, thus allowing each country to have only 4 columns in the grid chart.  In addition, I decided to highlight the Youth demographic group, because it was the group that had the highest share of independent workers within its group. Therefore, I colored each Youth bar in each country in orange, leaving the rest of the groups in gray to detract attention from them. Since I focused on highlighting Youth, I modified my title to "Young people have the largest participation of independent workers", thus making a story that was easy to connect with the information being provided in the chart. Finally, I added a subtitle, clarifying that each bar represented the % that each demographic group had of independent workers in order to avoid any confusion, while simplifying the chart in terms of labels.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11850126"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
