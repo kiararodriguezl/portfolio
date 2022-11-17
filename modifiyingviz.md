@@ -85,7 +85,7 @@ Having said that, here are the responses of our two interviewees.
 
 ### Student, 29 years, background in policy
 
-Overall Questions
+#### Overall Questions
 1.	Can you tell me what you these sketches are trying to convey?
 
 While it provides information on independent workers by demographics, it is unclear to me what independent workers and independent workforce mean. It is unclear also what the distinction between the two terms is.
@@ -109,3 +109,34 @@ I would say the second one is the easiest to understand.
 6.	Rank the charts by preference and/or clarity of the information.
 
 Second, first, third.
+
+#### Questions for each visualization
+1.	What was the first thing you noticed or was your first impression about the visualization?
+
+1st. That it looks organized, and good use of colors, but did not understand what the % meant.
+2nd. Women seems to be the only group that has higher % of independent workforce than % of independent workers.
+3rd. That the % don’t seem to add to anything, even though they are presented as complements of each other on the same bar.
+
+2.	Is there anything you find surprising or confusing?
+
+1st. That it is unclear what are the bars indicating vs the % number next to it. I can’t tell from the graph which one is the % of independent workers and the % independent workforce.
+2nd. That the dot for the % of independent workers is in gray instead of in each color.
+3rd. The way the data is presented is very confusing.
+
+3.	Is there anything you would change or do differently?
+
+1st. Clarify which % is each and add bars for both metrics per country.
+2nd. Putting the value to the dots as well and updating the legend with the colors of each dot.
+3rd. I would add separate bars for each category.
+
+4.	How much time did it take you to understand the graph? Did you understand it quickly, in a reasonable amount of time or did it take you a long time to grasp the information?
+
+1st. I don’t think I clearly understand it. It is unclear what each % corresponds to.
+2nd. Not much, this graph seems to be easier to understand than the previous one.
+3rd. Given in this case you only consider one variable, I was able to understand it but the way the data is presented is not the best.
+
+5.	What did you think of the aesthetics?
+
+1st. The graph looks pretty.
+2nd. Better contrast between the bars that the previous graph.
+3rd. The graph looks appealing to the audience.
