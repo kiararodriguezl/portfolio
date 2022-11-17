@@ -240,3 +240,7 @@ Considering these points of view, I learned that the simpler the chart, the bett
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+## Step 6: Final solution
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/11850126"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
