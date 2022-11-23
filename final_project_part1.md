@@ -21,8 +21,21 @@ After having explained the problem and visualized its impact, I will end with a 
 
 ## Sketches
 
+### Sketch 1
+The purpose of this sketch is to draw the reader's attention to the issue of femicide, emphasizing the proportion of femicides that represent the deaths of women at the hands of their partners and ex-partners. This leads to reflect on the main motive behind them. The title of the visualization tells the story what the drawing seeks to convey, so that there is a quick association between the text and the image on the part of the reader. When coloring the dolls, I try to present the proportion and/or composition in a graphic way. Also, it made sense for me to choose red to draw them because of the blood that was spilled, and I only chose this color to keep the visualization as simple as possible.
+
+### Sketch 2
+With this sketch I want to draw attention to the position of the Dominican Republic in comparison to the rest of the Latin American region, highligting that by 2020 it was among the top 3 countries with the highest rate of femicides. Since there were so many countries, I only decided to give different colors to the top 3 and leave the rest in gray. In addition, in the title I highlighted that the Dominican Republic was in second place and I did it in red, the same color as the line in the chart that represents it. This chart seeks to present the seriousness of the situation and how the trend has continued over the years.
+
+### Sketch 3
+The purpose of this sketch is to show the main motive of femicides and how the absolute trend has been maintained over time. This chart shows how femicides at the hands of intimate partners have come to account for almost all of the deaths, averaging more than 50%. The graph presents a striking contrast between the two rates and the title seeks to highlight this comparison or composition between the two.
+
+### Sketch 4
+This sketch represents the different ways in which women have been murdered, highlighting how the majority have been of almost equal magnitude between a bladed weapon and a firearm. This chart seeks to reflect on the level of violence in the country and how it is demonstrated in these methods. This has the potential to guide possible policy interventions on the problem of how partners access firearms, as well as violence to beat women.
+
 ## Data
 I will be taking some of my main data from the Economic Commission for Latin America and the Caribbean (ECLAC) statistics, especially from the Gender Equality Observatory. You can access this website [here](https://oig.cepal.org/en/indicators) and go to the Physical Autonomy section where you will find several categories including "femicide or feminicide". In this way you can access the data pertaining to the indicator, and even compare different indicators by going directly to the statistics hub clicking [here](https://statistics.cepal.org/portal/cepalstat/dashboard.html?lang=en). This data provides information on the femicide rate of Latin American and Caribbean countries since 2001, however, not all countries have complete data. Thus, I will only focus on the last decade to compare trends. 
 Likewise, I will be using data from the Dominican [Attorney General's Office](https://transparencia.pgr.gob.do/Inicio/i/5699_Estadisticas_de_Feminicidios_y_Homicidios_de_Mujeres) to focus on femicides in the Dominican Republic and to see the distribution of femicides in recent years. I will be complementing this data with information taken from [Statista](https://www.statista.com/markets/) to present data about the country. 
 
 ## Method and Medium
+I will be using mostly Tableau and Flourish to create the charts for my project. By using the databases, I will choose the most important information and try to simplify them so that the visualizations will be easy for the reader to grasp and associate with the story that I will be describing or narrating. To present the final project, combining the different visualizations with the text, I will be using Shorthand. With this tool, I will be able to show the story in a seamless way, with transitions between the different information and data presented that will allow the reader to connect with the topic.
