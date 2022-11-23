@@ -31,7 +31,7 @@ With this sketch I want to draw attention to the position of the Dominican Repub
 
 ### Sketch 3
 The purpose of this sketch is to show the main motive of femicides and how the absolute trend has been maintained over time. This chart shows how femicides at the hands of intimate partners have come to account for almost all of the deaths, averaging more than 50%. The graph presents a striking contrast between the two rates and the title seeks to highlight this comparison or composition between the two.
-![Sketch 3](https://user-images.githubusercontent.com/97977282/203663573-a9b0b507-7ab9-4788-8998-b74c75fb277c.png)
+![Sketch 3](https://user-images.githubusercontent.com/97977282/203663710-8b55edff-65d3-4e07-83fc-b009ce35f255.png)
 
 ### Sketch 4
 This sketch represents the different ways in which women have been murdered, highlighting how the majority have been of almost equal magnitude between a bladed weapon and a firearm. This chart seeks to reflect on the level of violence in the country and how it is demonstrated in these methods. This has the potential to guide possible policy interventions on the problem of how partners access firearms, as well as violence to beat women.
