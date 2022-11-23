@@ -23,15 +23,19 @@ After having explained the problem and visualized its impact, I will end with a 
 
 ### Sketch 1
 The purpose of this sketch is to draw the reader's attention to the issue of femicide, emphasizing the proportion of femicides that represent the deaths of women at the hands of their partners and ex-partners. This leads to reflect on the main motive behind them. The title of the visualization tells the story what the drawing seeks to convey, so that there is a quick association between the text and the image on the part of the reader. When coloring the dolls, I try to present the proportion and/or composition in a graphic way. Also, it made sense for me to choose red to draw them because of the blood that was spilled, and I only chose this color to keep the visualization as simple as possible.
+![Sketch 1](https://user-images.githubusercontent.com/97977282/203663544-a209b95b-9879-4448-8637-52bb4f53b6bc.png)
 
 ### Sketch 2
 With this sketch I want to draw attention to the position of the Dominican Republic in comparison to the rest of the Latin American region, highligting that by 2020 it was among the top 3 countries with the highest rate of femicides. Since there were so many countries, I only decided to give different colors to the top 3 and leave the rest in gray. In addition, in the title I highlighted that the Dominican Republic was in second place and I did it in red, the same color as the line in the chart that represents it. This chart seeks to present the seriousness of the situation and how the trend has continued over the years.
+![Sketch 2](https://user-images.githubusercontent.com/97977282/203663555-7b23ec11-e4e2-40db-a411-ed0b6e9a6d65.png)
 
 ### Sketch 3
 The purpose of this sketch is to show the main motive of femicides and how the absolute trend has been maintained over time. This chart shows how femicides at the hands of intimate partners have come to account for almost all of the deaths, averaging more than 50%. The graph presents a striking contrast between the two rates and the title seeks to highlight this comparison or composition between the two.
+![Sketch 3](https://user-images.githubusercontent.com/97977282/203663573-a9b0b507-7ab9-4788-8998-b74c75fb277c.png)
 
 ### Sketch 4
 This sketch represents the different ways in which women have been murdered, highlighting how the majority have been of almost equal magnitude between a bladed weapon and a firearm. This chart seeks to reflect on the level of violence in the country and how it is demonstrated in these methods. This has the potential to guide possible policy interventions on the problem of how partners access firearms, as well as violence to beat women.
+![Sketch 4](https://user-images.githubusercontent.com/97977282/203663585-651042b5-8b50-4860-b747-6983cd56f5f1.png)
 
 ## Data
 I will be taking some of my main data from the Economic Commission for Latin America and the Caribbean (ECLAC) statistics, especially from the Gender Equality Observatory. You can access this website [here](https://oig.cepal.org/en/indicators) and go to the Physical Autonomy section where you will find several categories including "femicide or feminicide". In this way you can access the data pertaining to the indicator, and even compare different indicators by going directly to the statistics hub clicking [here](https://statistics.cepal.org/portal/cepalstat/dashboard.html?lang=en). This data provides information on the femicide rate of Latin American and Caribbean countries since 2001, however, not all countries have complete data. Thus, I will only focus on the last decade to compare trends. 
