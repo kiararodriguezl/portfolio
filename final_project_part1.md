@@ -17,6 +17,7 @@ The high rate of femicides in some countries, as opposed to others, raises the q
 - Chart showing various factors affecting this problem.
 
 ### Resolution
+After having explained the problem and visualized its impact, I will end with a call for intervention policies that seek to attack the root of the problem, beyond reactive policies such as a harsher prosecution of murderers. In the same way, I will also point out the great barrier that gender violence represents to achieve gender equality.
 
 ## Data
 
