@@ -10,6 +10,11 @@ Latin America is the region with the highest number of femicides in the world, n
 The concept of femicide is unfamiliar to many people around the world, as the deaths of women are often included in the homicide rates of each country and not studied separately. I want to establish the importance of knowing femicides as deaths occurring on the basis of gender, due to the significance and impact it has on people's lives. In this way, I want to convey through statistics and data the alarming nature of the situation, so that the reader can understand the reality experienced by many people and countries, as well as the repercussions that this has on their lives.
 
 ### Conflict
+The high rate of femicides in some countries, as opposed to others, raises the question of what are the factors that make it stand out more in some countries.  After looking at the incidence in Latin America, I will seek to present what are the dominant types of femicides in the Dominican Republic, as well as what factors could be influencing or lying behind the femicide rate. For this, some of the visualizations I will be including will be:
+- Chart showing the femicide rates of Latin American countries in the last year.
+- Chart showing the femicide rate trend in the Dominican Republic 
+- Chart of different types of femicides or circumstances where femicides have occurred.
+- Chart showing various factors affecting this problem.
 
 ### Resolution
 
