@@ -13,4 +13,6 @@ In this page you will see all the work that I do trying to better present or vis
 
 ## [Share of Independent Workers](/modifyingviz.md)
 
-## [Final Project: Part 1](/final_project_part1.md)
+## Final Project
+### [Part 1](/final_project_part1.md)
+
