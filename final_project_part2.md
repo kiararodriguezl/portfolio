@@ -43,6 +43,20 @@ After showing them my storyboard in Shorthand, the questions asked were the foll
 | Is there anything you learned? If so, what is it? | Yes, the word femicide, or lets say its meaning. Never thought such a large percentage of women were murdered by their gender, and even more, in my country (the DR) and Latin America in general. | I learned that in the DR, the Attorney's General Office considers a femicide as such if it’s done at the hand of an intimate partner. In my opinion, it does not make sense for it to be seen like that and needs to be handled better, anyone can commit a femicide and needs to be punished to the extent of the law for it, intimate partner or not. Something similar is stated at the end when it says: “The DR needs to introduce femicides in the criminal code and penalized it as a crime different from homicide." | I really liked learning more about the topic, specifically on DR. The statistic that 50% of all femicides in the DR are in the hands of partners is really concerning. Adding information on children being left orphaned I think would add a lot to your story. |
 | Do you have any suggestions on what would make it better? | Has DR or any of these countries taken any steps whatsoever to deal with this issue specifically? Not only homicides in general as was said. | Not much, maybe adding a note to each chart suggesting to hover the mouse over it to see more information, in case someone doesn’t realize. | Mentioned this already in different sections. But in addition, I think you can incorporate the story of a woman or about important movements in the region that have brought awareness to feminicide. |
 
-### Key takeaways
+### Key takeaways from interviews
 
+- There is consensus among the interviewees that the storyboard makes them feel sad and shocked with the degree of severity that the country shows in terms of femicides.
+- The most interesting visualization was the one about the number of femicides in the different countries from the region, where it can be seen the magnitude of the incidence.
+- The dark color palette is in accordance with the subject and with the message to be conveyed, that is to say, it is in accordance with the seriousness of the subject.
+- It seems to be unclear how feminicide is considered at the legal level in the Dominican Republic and what it means that the Attorney General's Office only accounts for feminicide at the hands of intimate partners.
+- The difference between the chart of the number of femicides and the rate of femicides in Latin America does not seem to be clearly understood, especially when it says that it is adjusted for the size of the population.
 
+### Group critique in class
+- Reduce the number of colors in the graph that's showing the number of femicides in Latin America, by putting all the countries in gray with the exception of Brazil and Mexico in red.
+- Lighten the gray in the line chart, to draw less attention to those countries. 
+- Shorten the title of the area chart showing the proportion of deaths caused by the couple in the DR.
+- Edit the section explaining the population adjustment for the femicide rate to make the message easier to understand.
+- Change the colors of the tree map graph of weapons used to 4 shades of red.
+- Give a better explanation of the legal status of femicides in the DR to lead to the call to action.
+
+### Planned changes based on feedback
