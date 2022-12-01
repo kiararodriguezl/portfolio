@@ -1,4 +1,5 @@
 [Back to my portfolio](/README.md)
+[Access part 2 of the final project](/final_project_part2.md)
 
 # Part 1, Final Project
 
@@ -43,3 +44,6 @@ Likewise, I will be using data from the Dominican [Attorney General's Office](ht
 
 ## Method and Medium
 I will be using mostly Tableau and Flourish to create the charts for my project. By using the databases, I will choose the most important information and try to simplify them so that the visualizations will be easy for the reader to grasp and associate with the story that I will be describing or narrating. To present the final project, combining the different visualizations with the text, I will be using Shorthand. With this tool, I will be able to show the story in a seamless way, with transitions between the different information and data presented that will allow the reader to connect with the topic.
+
+
+[Continue to part 2 of the final project](/final_project_part2.md)
