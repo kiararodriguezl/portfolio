@@ -27,4 +27,8 @@ After showing them my storyboard in Shorthand, the questions asked were the foll
 
 ### Interview findings
 
+| Question | Female, publicist, mid-20s | Female, communicator, early-20s | Female, student, late-20s |
+| ----------- | -------------------------- | ------------------------------- | ------------------------- |
+| Tell me what you see. What do you understand from the wireframe/storyboard? | Alarming news. Presenting a very concerning and sensitive topic, even more so because it involves my country, but a situation that needs to be addressed with the importance and urgency it demands. Everything is well presented, it calls the attention to an alarming issue, not only to authorities but people in general.|   | Femicide is a huge problem in Latin America and particularly in the DR, and that message is very clear. I really liked that it goes from macro to the micro |
+
 ### Key takeaways
