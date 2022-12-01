@@ -54,9 +54,15 @@ After showing them my storyboard in Shorthand, the questions asked were the foll
 ### Group critique in class
 - Reduce the number of colors in the graph that's showing the number of femicides in Latin America, by putting all the countries in gray with the exception of Brazil and Mexico in red.
 - Lighten the gray in the line chart, to draw less attention to those countries. 
-- Shorten the title of the area chart showing the proportion of deaths caused by the couple in the DR.
+- Shorten the title of the area chart showing the proportion of deaths caused by the intimate partners in the DR.
 - Edit the section explaining the population adjustment for the femicide rate to make the message easier to understand.
 - Change the colors of the tree map graph of weapons used to 4 shades of red.
 - Give a better explanation of the legal status of femicides in the DR to lead to the call to action.
 
 ### Planned changes based on feedback
+- Reduce the number of colors in the treemap to gray to maintain the color tones of the wireframe and highlight Brazil and Mexico from the rest of the countries with red.
+- Expand more on the legal status of femicide in the Dominican Republic so that the call to action makes sense.
+- Be more explicit with the difference between the number of femicides and the femicide rate.
+- Modify the line chart by adding a filter where countries can be compared, as well as lightening the gray of the lines to make them stand out less.
+- Revise the titles and make sure that the storyboard is compelling.
+
