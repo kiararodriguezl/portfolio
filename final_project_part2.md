@@ -7,7 +7,7 @@
 
 ## Wireframe in Shorthand
 
-You can access the storyboard [here](https://preview.shorthand.com/o9sHPM63pOEIC9Er)
+You can access the storyboard [here](https://preview.shorthand.com/o9sHPM63pOEIC9Er).
 
 ### Overview
 
@@ -19,8 +19,11 @@ I decided to make the wireframe outline in Shorthand, so that I could see how th
 The target audience of this storyboard is the legislative authorities of the Dominican Republic. I seek to create awareness of the huge problem that is affecting the country, starting by establishing the ranking in which we are positioned within the region, and how the region has the highest incidence in the world. The objective is to call for action towards measures that criminalize femicide as a crime per se, and not as an aggravated homicide, as it is currently contemplated in the penal code. Similarly, considering that the Attorney General's Office only recognizes in its statistics the femicides committed by intimate partners, the storyboard tries to make it clear that there are other types of femicides that should also be paid attention to. But not only that, it also means that the real statistics are even more alarming than what is being presented. Also, the consequences go even beyond the victims, affecting families and communities. Therefore, it is important that the authorities take action both with awareness and with penalties provided under the criminal code.
 
 ### Approach to choosing interviewees
+In choosing the interviewees, I tried to have them come from different backgrounds, so that their perceptions of the storyboard would vary and I could get more diverse feedback. Although it was difficult for some people to be available to evaluate the wireframe and storyboard, I was able to interview three people that I considered would have varying perceptions: the background of one is in advertising, the second one is in audiovisual communication and the third one is in public policy. 
 
 ### Interview script
+After showing them my storyboard in Shorthand, the questions asked were the following:
+
 
 ### Interview findings
 
