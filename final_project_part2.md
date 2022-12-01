@@ -4,3 +4,8 @@
 
 
 # Part 2, Final Project
+
+## Wireframe in Shorthand
+
+You can access the storyboard [here](https://preview.shorthand.com/o9sHPM63pOEIC9Er)
+
