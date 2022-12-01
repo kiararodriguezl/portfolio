@@ -23,7 +23,13 @@ In choosing the interviewees, I tried to have them come from different backgroun
 
 ### Interview script
 After showing them my storyboard in Shorthand, the questions asked were the following:
-
+1. Tell me what you see. What do you understand from the wireframe and storyboard?
+2. How does it make you feel? 
+3. Is there something you find particularly useful or interesting?
+4. Is there something you find confusing? Would you wish it were explained in more detail? How so? 
+5. What do you like or not? Why?
+6. Is there anything you learned? If so, what is it?
+7. Do you have any suggestions on what would make it better?
 
 ### Interview findings
 
