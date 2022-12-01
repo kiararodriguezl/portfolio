@@ -15,4 +15,4 @@ In this page you will see all the work that I do trying to better present or vis
 
 ## Final Project
 ### [Part 1](/final_project_part1.md)
-
+### [Part 2](/final_project_part2.md)
