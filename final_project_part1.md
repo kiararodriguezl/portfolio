@@ -1,4 +1,5 @@
 [Back to my portfolio](/README.md)
+
 [Access part 2 of the final project](/final_project_part2.md)
 
 # Part 1, Final Project
