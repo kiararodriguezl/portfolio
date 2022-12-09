@@ -16,4 +16,12 @@ Among the aspects that have been transforming throughout the different parts has
 ## Audience
 My initial audience was the authorities of the Dominican Republic, legislators, policymakers, and the rest of the government, calling on them to take action on the issue. However, as I got feedback, I realized that this is an issue that the Dominican society is not as informed as one would expect, so I decided to reach out to them and the rest of the class, since the latter were not aware of (1) what feminicide was and (2) the serious situation in the region. Thus, I chose to explain the difference between a femicide and a female homicide, as well as to explain the difference between the countries with more femicides and those with higher femicide rates. In this way, I tried to use simple language so that the audience could easily understand.
 
+## Sources
+In the end, my main source of information was the Economic Commission for Latin America and the Caribbean (ECLAC) [statistics](https://oig.cepal.org/en/indicators) and [report](https://www.cepal.org/sites/default/files/infographic/files/21-00792_folleto_the_pandemic_in_the_shadows_web.pdf), as I had previously determined. I also supplemented my data with information from the [OECD](https://www.oecd.org/gender/data/addressing-femicide-in-the-context-of-rampant-violence-against-women-in-latin-america.htm), United Nations' [report](https://www.unodc.org/documents/data-and-analysis/statistics/crime/UN_BriefFem_251121.pdf) and [Statista](https://www.statista.com/markets/). As for the Dominican Attorney General's Office, I didn't take any data directly from there because it was overlapping with ECLAC data. Moreover, I consider that the latter could have been taking the information from the statistics handled by the Attorney General's Office, since the latter is the one who publishes the official data on the issue in the country.
 
+
+[Access part 1 of the final project](/final_project_part1.md)
+
+[Access part 2 of the final project](/final_project_part2.md)
+
+[Back to my portfolio](/README.md)
