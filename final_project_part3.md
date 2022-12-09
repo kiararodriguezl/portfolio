@@ -6,7 +6,7 @@
 
 # Part 3, Final Project
 
-You can access myfinal storyboard [here](https://carnegiemellon.shorthandstories.com/femicide-rates-in-latin-america/index.html).
+You can access my final storyboard [here](https://carnegiemellon.shorthandstories.com/femicide-rates-in-latin-america/index.html).
 
 ## Summary
 Some aspects of the project changed slightly throughout the different parts and deliveries, which made me realize how complex it is sometimes to share a story that connects with the audience. Every aspect included in the story must be carefully chosen and told in a captivating way. For this reason, from the beginning I wanted to show the very serious situation in Latin America of the high number of women who die because of their gender and at the hands of their partners. This was something that was maintained throughout the different parts, and I tried to create that emotional hook at the beginning of the story through specific facts that could grab the attention of the audience. Through the different feedbacks, this was something that stood out not only with my interviewees but also with my classmates, as most of them had no idea of the seriousness of the problem and were shocked by the data. Likewise, from the beginning I kept the idea of starting with the macro perspective of the situation, and then going to a more micro perspective talking about the case of the Dominican Republic, which is one of the countries that stands out in the region.
