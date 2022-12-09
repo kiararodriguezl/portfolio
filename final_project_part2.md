@@ -66,3 +66,5 @@ After showing them my storyboard in Shorthand, the questions asked were the foll
 - Modify the line chart by adding a filter where countries can be compared, as well as lightening the gray of the lines to make them stand out less.
 - Revise the titles and make sure that the storyboard is compelling.
 
+
+[Access part 3 of the final project](/final_project_part3.md)
