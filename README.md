@@ -3,7 +3,7 @@
 # About me
 Hi! I'm Kiara from the Dominican Republic. I'm a second year student at the Master of Science in Public Policy and Management program of Heinz College at Carnegie Mellon University. After graduating, I want to continue working in policy analysis, data and research, especially focused on areas of social, economic and international development, given the great impact that these policies have on people's well-being.
 
-# Portfolio
+# Content
 Here you can find some of the work I did as part of the Telling Stories with Data class putting into practice data visualization concepts and techniques, especially how to effectively communicate different stories and narratives through tools such as Flourish and Tableau.
 
 ## Assignments
