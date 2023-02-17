@@ -1,19 +1,16 @@
 # Kiara Rodriguez's Portfolio
 
 # About me
-Hi! I'm Kiara from the Dominican Republic. I'm a second year MSPPM student at CMU. After graduating, I would like to work with policy analysis and more specifically with international and economic development.
-
-# What I hope to learn
-I hope to learn different ways to visualize data so that I can use it in policy analysis when I graduate next year.
+Hi! I'm Kiara from the Dominican Republic. I'm a second year student at the Master of Science in Public Policy and Management program of Heinz College at Carnegie Mellon University. After graduating, I want to continue working in policy analysis, data and research, especially focused on areas of social, economic and international development, given the great impact that these policies have on people's well-being.
 
 # Portfolio
-In this page you will see all the work that I do trying to better present or visualize a variety of data.
+Here you can find some of the work I did as part of the Telling Stories with Data class putting into practice data visualization concepts and techniques, especially how to effectively communicate different stories and narratives through tools such as Flourish and Tableau.
 
 ## Assignments
 ### [Governments Debt](/flourishviz.md)
 ### [Share of Independent Workers](/modifyingviz.md)
 
-## Final Project
+## Project on Femicides in Latin America and the Dominican Republic
 ### [Part 1](/final_project_part1.md)
 ### [Part 2](/final_project_part2.md)
 ### [Part 3](/final_project_part3.md)
